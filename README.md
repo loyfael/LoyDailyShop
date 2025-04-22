@@ -2,7 +2,7 @@
 
 > [!WARNING]  
 > ## **Maintenance Only**  
-> This is a **community-maintained fork** of the original plugin. I do **not** plan to add new features. This fork only provides **bug fixes** and **updates for new Minecraft versions**. Please do **not request new features**. (They will be instantly rejected).
+> This is a **community-maintained fork** of the original plugin. I do **not** plan to add new features. This fork only provides **bug fixes** and **updates for new Minecraft versions**. Please do **not request new features**. (They will be instantly rejected). This project is maintained **on a best-effort basis**. I'm currently involved in other projects and simply don't have the time or energy to actively develop new features for this plugin. To be fully transparent: I picked up this plugin to **keep it alive** for my own minecraft server, not to turn it into a full-time commitment. That means I’m focusing solely on **bug fixes**, **performance improvements**, and **Minecraft version compatibility**.
 
 **An advanced rotating shop plugin for Minecraft (1.16.5 – 1.20.4)**  
 DailyShop is a powerful and lightweight shop system that offers configurable rotating item shops. With intuitive GUI customization and Vault integration, it brings a fresh economy experience to your server every day.<br>
@@ -90,7 +90,7 @@ You’re welcome to contribute bug fixes, performance improvements, or version u
 Please follow these rules:
 
 - ✅ Only submit **fixes, refactors, version updates and performance improvements**
-- ❌ Do **NOT** submit new features or gameplay changes (Yes,i'm sorry)
+- ❌ Do **NOT** submit new features or gameplay changes (Yes, i'm sorry)
 - ✅ Keep the codebase clean and easy to maintain
 - ✅ Respect the original plugin structure and logic
 - ✅ Use pull requests for all contributions
