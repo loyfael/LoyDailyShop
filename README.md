@@ -71,19 +71,6 @@ Click [**HERE**](https://github.com/loyfael/LoyDailyShop/blob/master/OLD.md) to 
 
 ---
 
-## 🆚 Want More?
-
-Upgrade to [**DailyShop Premium**](https://www.spigotmc.org/resources/116223/) for:
-
-- Unlimited shops (global & per-player)
-- Shop categories
-- Advanced transaction logs
-- Full GUI customization
-- Buy/sell limits
-- And more!
-
----
-
 ## 👤 Author
 
 Developed by **Divios**  
