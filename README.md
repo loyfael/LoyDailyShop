@@ -2,8 +2,6 @@
 
 **An advanced rotating shop plugin for Minecraft (1.16.5 – 1.20.4)**  
 DailyShop is a powerful and lightweight shop system that offers configurable rotating item shops. With intuitive GUI customization and Vault integration, it brings a fresh economy experience to your server every day.
-
-> ⚠️ This is the **free version**, limited to a single global shop. Upgrade to [DailyShop Premium](https://www.spigotmc.org/resources/116223/) for full features.
 -# Click [**HERE**](https://github.com/loyfael/LoyDailyShop/blob/master/OLD.md) to find the old README.md
 
 ---
