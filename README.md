@@ -73,7 +73,7 @@ Click [**HERE**](https://github.com/loyfael/LoyDailyShop/blob/master/OLD.md) to 
 
 ## 👤 Author
 
-Developed by **Divios**  
+Originaly developed by **Divios**  
 Spigot profile: [https://www.spigotmc.org/resources/authors/divios.793931/](https://www.spigotmc.org/resources/authors/divios.793931/)
 
 ---
