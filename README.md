@@ -84,3 +84,18 @@ Please use issue section of this github.
 
 ---
 
+## 🤝 Contributing
+
+You’re welcome to contribute bug fixes, performance improvements, or version updates.  
+Please follow these rules:
+
+- ✅ Only submit **fixes, refactors, version updates and performance improvements**
+- ❌ Do **NOT** submit new features or gameplay changes (Yes,i'm sorry)
+- ✅ Keep the codebase clean and easy to maintain
+- ✅ Respect the original plugin structure and logic
+- ✅ Use pull requests for all contributions
+
+Before submitting a PR, please test your changes and include a clear description of what was fixed or improved.
+
+Thanks for helping keep this plugin alive and compatible! ❤️
+
